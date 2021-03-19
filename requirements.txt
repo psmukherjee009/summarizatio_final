@@ -1,0 +1,7 @@
+ nltk
+ numpy
+ networkx
+ torch
+ transformers
+ sentencepiece
+ rouge-score
